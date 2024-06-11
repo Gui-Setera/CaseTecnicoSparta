@@ -34,8 +34,11 @@ acesso total as funcionalidades, e o usuário tem acesso apenas as ferramentas d
 2. **Digite suas credenciais**: Insira seu email e senha. Os logins padrão são:
    - Admin: email: `admin@sparta.com`, senha: `12345678` (acesso total)
    - Usuário: email: `user@sparta.com`, senha: `12345678` (acesso consulta)
+![LOGIN](https://github.com/Gui-Setera/CaseTecnicoSparta/assets/148168144/717aa197-2be7-413e-8d8e-82ce268e81da)
 
 3. **Clique em Login**: Após inserir as credenciais, clique no botão "Login" para acessar a aplicação.
+![Tela Inicial](https://github.com/Gui-Setera/CaseTecnicoSparta/assets/148168144/f4a17b8e-a1b1-4354-ad5c-8dc5543aa0c2)
+   
 
 ### Importar Dados CSV
 
@@ -50,9 +53,13 @@ deve ter sua extensão alterada. Basta atualizar os dados na própria planilha, 
 ### Visualizar Dados
 
 1. **Clique em "Visualizar todos os dados"**: Exibe todos os dados das companhias na tabela.
+   ![Tela de Visualização ](https://github.com/Gui-Setera/CaseTecnicoSparta/assets/148168144/63a4ca0d-0454-42cf-a517-bfaebd53d73f)
 
-2. **Clique em "Consultar por data"**: Digite a data no formato `AAAA-MM-DD` e clique em "Confirmar" para visualizar os
-dados daquela data específica.# Case Técnico Sparta - Desenvolvedor Python
+
+3. **Clique em "Consultar por data"**: Digite a data no formato `AAAA-MM-DD` e clique em "Confirmar" para visualizar os
+dados daquela data específica.
+![Tela de pesquisa por data](https://github.com/Gui-Setera/CaseTecnicoSparta/assets/148168144/366e9c6a-9eae-47c8-879e-78e7d533f6b2)
+
 
 ## Descrição
 
