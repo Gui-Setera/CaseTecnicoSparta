@@ -38,7 +38,7 @@ acesso total as funcionalidades, e o usuário tem acesso apenas as ferramentas d
 
 
 
-![LOGIN](https://github.com/Gui-Setera/CaseTecnicoSparta/assets/148168144/717aa197-2be7-413e-8d8e-82ce268e81da)
+   ![LOGIN](https://github.com/Gui-Setera/CaseTecnicoSparta/assets/148168144/717aa197-2be7-413e-8d8e-82ce268e81da)
 
 3. **Clique em Login**: Após inserir as credenciais, clique no botão "Login" para acessar a aplicação.
 ![Tela Inicial](https://github.com/Gui-Setera/CaseTecnicoSparta/assets/148168144/f4a17b8e-a1b1-4354-ad5c-8dc5543aa0c2)
