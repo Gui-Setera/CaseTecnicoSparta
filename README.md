@@ -58,6 +58,10 @@ deve ter sua extensão alterada. Basta atualizar os dados na própria planilha, 
 
 3. **Clique em "Consultar por data"**: Digite a data no formato `AAAA-MM-DD` e clique em "Confirmar" para visualizar os
 dados daquela data específica.
+
+
+
+
 ![Tela de pesquisa por data](https://github.com/Gui-Setera/CaseTecnicoSparta/assets/148168144/366e9c6a-9eae-47c8-879e-78e7d533f6b2)
 
 
