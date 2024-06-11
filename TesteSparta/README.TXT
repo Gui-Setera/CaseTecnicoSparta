@@ -54,67 +54,6 @@ deve ter sua extensão alterada. Basta atualizar os dados na própria planilha, 
 2. **Clique em "Consultar por data"**: Digite a data no formato `AAAA-MM-DD` e clique em "Confirmar" para visualizar os
 dados daquela data específica.# Case Técnico Sparta - Desenvolvedor Python
 
-## Descrição
-
-Este projeto é uma aplicação de gerenciamento de dados de companhias, desenvolvida usando Python, PySide6 para a
-interface gráfica, e SQLite como banco de dados. Ele permite aos usuários importar dados de companhias a partir de um
-arquivo CSV, visualizar os dados em uma tabela, consultar dados por data, e exportar os dados para um arquivo Excel.
-O sistema também mantém um histórico de alterações, garantindo que todas as mudanças sejam registradas.
-
-## Funcionalidades
-
-1. **Login de Usuário**: Autenticação de usuários com diferentes níveis de acesso (admin e usuário), onde o admin tem
-acesso total as funcionalidades, e o usuário tem acesso apenas as ferramentas de consulta.
-2. **Importação de Dados CSV**: Importa dados de companhias a partir de um arquivo CSV.
-3. **Visualização de Dados**: Exibe os dados das companhias em uma tabela.
-4. **Consulta por Data**: Permite consultar dados específicos de uma data.
-5. **Exportação para Excel**: Exporta os dados das companhias para um arquivo Excel.
-6. **Histórico de Alterações**: Mantém um registro histórico das alterações feitas nos dados das companhias.
-
-## Requisitos
-
-- Sistema Operacional: Windows
-
-## Instruções para Executar
-
-1. **Baixe o executável**: Faça o download do arquivo executável `executavel.exe`.
-
-2. **Execute o arquivo**: Clique duas vezes no arquivo executável para iniciar a aplicação.
-
-### Login
-
-1. **Acesse a janela de login**: Ao abrir a aplicação, você verá a janela de login.
-imgs/LOGIN.png
-
-2. **Digite suas credenciais**: Insira seu email e senha. Os logins padrão são:
-   - Admin: email: `admin@sparta.com`, senha: `12345678` (acesso total)
-   - Usuário: email: `user@sparta.com`, senha: `12345678` (acesso consulta)
-
-3. **Clique em Login**: Após inserir as credenciais, clique no botão "Login" para acessar a aplicação.
-
-### Importar Dados CSV
-
-1. **Clique em "Importar dados CSV"**: Disponível apenas para usuários administradores.
-
-2. **Selecione o arquivo CSV**: Escolha o arquivo CSV com os dados das companhias. O arquivo deve ter as
-colunas `CNPJ_CIA`, `DENOM_SOCIAL` e `SIT`. Existe um modelo padrão junto a pasta do executável, o mesmo não
-deve ter sua extensão alterada. Basta atualizar os dados na própria planilha, salvar e integrar.
-
-3. **Verifique a importação**: Uma mensagem será exibida confirmando a importação ou indicando um erro.
-
-### Visualizar Dados
-
-1. **Clique em "Visualizar todos os dados"**: Exibe todos os dados das companhias na tabela.
-
-2. **Clique em "Consultar por data"**: Digite a data no formato `AAAA-MM-DD` e clique em "Confirmar" para visualizar os
-dados daquela data específica.
-
-### Exportar Dados para Excel
-
-1. **Clique em "Emitir todos os dados em Excel"**: Escolha o local para salvar o arquivo Excel.
-2. **Verifique a exportação**: Uma mensagem será exibida confirmando a exportação bem-sucedida.
-
-
 
 ## Estrutura do Projeto
 
