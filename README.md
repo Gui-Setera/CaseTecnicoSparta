@@ -34,6 +34,10 @@ acesso total as funcionalidades, e o usuário tem acesso apenas as ferramentas d
 2. **Digite suas credenciais**: Insira seu email e senha. Os logins padrão são:
    - Admin: email: `admin@sparta.com`, senha: `12345678` (acesso total)
    - Usuário: email: `user@sparta.com`, senha: `12345678` (acesso consulta)
+
+
+
+
 ![LOGIN](https://github.com/Gui-Setera/CaseTecnicoSparta/assets/148168144/717aa197-2be7-413e-8d8e-82ce268e81da)
 
 3. **Clique em Login**: Após inserir as credenciais, clique no botão "Login" para acessar a aplicação.
